@@ -1,5 +1,3 @@
-# File-Analyzer
-
 # 📄 Text File Analyzer
 
 A memory-efficient CLI tool built in **Node.js** to analyze large text files. It processes input **line by line** using streams and reports word statistics like **frequencies**, **top-N words**, and more — all without loading the entire file into memory.
